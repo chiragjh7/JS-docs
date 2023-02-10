@@ -1,4 +1,4 @@
-# JS-reference
+# JS-docs
 
 `Covered Basics`
 
